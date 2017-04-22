@@ -3,6 +3,10 @@
   
 	python main.py
 
+  plot the results:
+
+	python plot.py
+
 <img src=https://github.com/LihangLiu/RL-autocar/blob/master/assets/commandui.png></img>
 
 # Results
